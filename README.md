@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PHP Projects](https://github.com/samrattayade/PHP_crud_app)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on [PHP Projects](https://github.com/samrattayade/PHP_crud_app)
 
