@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://samrattayade.blogspot.com/](https://samrattayade.blogspot.com/)
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **mr.samrattayade@gmail.com**
 
