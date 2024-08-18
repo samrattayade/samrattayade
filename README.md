@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SAMRAT TAYADE</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [PHP Projects](https://github.com/samrattayade/PHP_crud_app)
+- 🔭 I’m currently working on [React Projects](https://github.com/samrattayade/react)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **REACT**
 
-- 👯 I’m looking to collaborate on [PHP Projects](https://github.com/samrattayade/PHP_crud_app)
+- 👯 I’m looking to collaborate on [React Projects](https://github.com/samrattayade/PHP_crud_app)
 
-- 🤝 I’m looking for help with [PHP Projects](https://github.com/samrattayade/PHP_crud_app)
+- 🤝 I’m looking for help with [React Projects](https://github.com/samrattayade/Amazon-clone-React)
 
 - 👨‍💻 All of my projects are available at [https://github.com/samrattayade](https://github.com/samrattayade)
 
